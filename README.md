@@ -6,7 +6,7 @@ The **Open–closed Principle Notification System** is a software project designed
 
 In this project, we implement a notification system that adheres to the OCP by allowing the addition of new notification types without modifying existing classes.
 
-![Class Diagram](Images/classDiagram.png)
+![Class Diagram](https://github.com/manishmh2002/Open-closed-principle/blob/master/classDiagram.png)
 
 ## Project Structure
 
